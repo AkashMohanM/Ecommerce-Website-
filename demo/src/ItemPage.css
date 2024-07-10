@@ -1,0 +1,48 @@
+/* .itemall{
+    width: 100vw;
+    height: 100vh;
+} */
+.buts button{
+width: 100px;
+height: 40px;
+margin: 10px;
+background-color: rgb(225, 183, 0);
+border: none;
+border-radius: 5px;
+}
+.lists{
+    padding: 10px;
+    margin: 10px;
+}
+.pagename{
+    width: 100%;
+}
+.pad{
+    width: 4%;
+}
+.pagename img{
+width: 100%;
+margin: 5px;
+}
+.itemall{
+    background-color: rgb(241, 237, 237);
+    padding: 10px;
+}
+.border{
+    background-color: rgb(246, 251, 255);
+    padding: 20px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+  
+   
+}
+.change{
+    width: 40%;
+
+}
+.change img{
+    width:85%;
+    height: 100%;
+    margin-left: 20px;
+}

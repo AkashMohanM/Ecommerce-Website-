@@ -1,0 +1,17 @@
+
+.mobile{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+    margin: 5px;
+    background-color: rgba(234, 238, 242,0.2);
+    border-radius: 15px;
+}
+.mobile img{
+    width: 150px;
+
+}
+
+.mobile img:hover{
+    width: 155px;
+}

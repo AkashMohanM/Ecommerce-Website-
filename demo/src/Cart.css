@@ -1,0 +1,22 @@
+img{
+    width: 200px;
+}
+.cartflex{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgba(182, 179, 176,0.3);
+    margin: 10px;
+    padding: 10px;
+}
+.but{
+    display: flex;
+    align-items: center;
+}
+.but button{
+    width: 20px;
+    font-size: 15px;
+}
+.but h4{
+    padding: 10px;
+}
